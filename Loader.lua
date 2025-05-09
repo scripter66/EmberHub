@@ -1,5 +1,4 @@
 local ember = {}
-loadstring(game:HttpGet("https://raw.githubusercontent.com/scripter66/NotificationSystem/refs/heads/main/Notification.lua"))()
 print("[ Ember Hub ] -> ", game.GameId)
 local found = false
 function ember:LoadScript(gameId, script)
